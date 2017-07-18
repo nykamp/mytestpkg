@@ -17,4 +17,12 @@ library(mytestpkg)
 followers(3)
 ```
 
-More Information can be found in [@source]
+More Information can be found in [@source] (need to look this up).
+
+```{r five}
+library(mytestpkg)
+followers(5)
+
+```
+
+
