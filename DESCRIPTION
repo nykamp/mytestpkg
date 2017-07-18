@@ -1,7 +1,7 @@
 Package: mytestpkg
 Type: Package
 Title: Demonstrates some concepts
-Version: 0.1.0
+Version: 0.1.0.a
 Author: Joana Seguin (you can make sure who is contributing, writing, holding copyright etc.)
 Maintainer: Joana Seguin <jseguin@ecology.uni-kiel.de>
 Description: This research compendium contains code and data for the publication in <http://sciencedirect.com>
