@@ -1,0 +1,20 @@
+---
+title: "challenge"
+output: bookdown::html_document2
+author: "Joana Seguin"
+date: '`r Sys.Date()`'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## First function
+
+Here is my new function:
+
+```{r three}
+library(mytestpkg)
+followers(3)
+```
+
+More Information can be found in [@source]
